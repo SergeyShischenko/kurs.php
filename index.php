@@ -1,7 +1,5 @@
 <?php
 
-<?php
-
 //1) Создайте переменную $a и присвойте ей значение 2019. Выведите значение этой переменной на экран и ее тип.
 
 $a = 2019;
@@ -60,5 +58,17 @@ $obj = new foo;
 $myValue = &$obj->getValue(); // $myValue указывает на $obj->value, равное 42.
 $obj->value = 2;
 echo $myValue;                // отобразит новое значение $obj->value, то есть 2.
+
+
+echo '<hr>';
+
+function fool(&$var){
+    $var++;
+}
+
+$a = 5;
+fool($a);
+echo $a;
+echo '<hr>';
 
 
