@@ -4,11 +4,13 @@
     <list default="true" id="ad6375be-d607-494f-80b0-7cef168b2e88" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dz 4_7/dz7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz8_9/dz9.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/getto.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sender.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test1.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/urok3.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz8_9/dz8.php" beforeDir="false" afterPath="$PROJECT_DIR$/dz8_9/dz8.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +22,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dz 4_7/dz6.php">
+        <entry file="file://$PROJECT_DIR$/dz8_9/dz8.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="432">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dz8_9/dz9.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -56,6 +67,8 @@
         <option value="$PROJECT_DIR$/DZ 4-7/dz7.php" />
         <option value="$PROJECT_DIR$/DZ 4-7/dz4.php" />
         <option value="$PROJECT_DIR$/DZ 4-7/dz6.php" />
+        <option value="$PROJECT_DIR$/dz8_9/dz9.php" />
+        <option value="$PROJECT_DIR$/dz8_9/dz8.php" />
       </list>
     </option>
   </component>
@@ -80,6 +93,11 @@
             <path>
               <item name="kurs.php" type="b2602c69:ProjectViewProjectNode" />
               <item name="kurs.php" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kurs.php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurs.php" type="462c0819:PsiDirectoryNode" />
+              <item name="dz8_9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -125,8 +143,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17891891" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17891891" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -139,7 +158,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3272727" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3272727" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -236,6 +255,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="428">
           <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dz8_9/dz9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dz8_9/dz8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
         </state>
       </provider>
     </entry>
